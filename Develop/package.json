@@ -1,14 +1,22 @@
 {
-  "name": "static-site",
+  "name": "readme_generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generates a README.md in github",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterlingpeck/README_Generator.git"
+  },
+  "author": "Sterling Peck",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sterlingpeck/README_Generator/issues"
+  },
+  "homepage": "https://github.com/sterlingpeck/README_Generator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.2.4"
   }
 }
