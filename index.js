@@ -57,6 +57,71 @@ const questions = [
       }
     },
   },
+  {
+    type: "input",
+    message: "What are the steps required to install your project?",
+    name: "installation",
+    validate: (gitInput) => {
+      if (gitInput) {
+        return true;
+      } else {
+        console.log("N/A");
+        return false;
+      }
+    },
+  },
+  {
+    type: "input",
+    message: "Please provide instructions and/or examples for application use.",
+    name: "usage",
+    validate: (gitInput) => {
+      if (gitInput) {
+        return true;
+      } else {
+        console.log("N/A");
+        return false;
+      }
+    },
+  },
+  {
+    type: "input",
+    message: "Licenses required for this application.",
+    name: "license",
+    validate: (gitInput) => {
+      if (gitInput) {
+        return true;
+      } else {
+        console.log("Please provide license info.");
+        return false;
+      }
+    },
+  },
+  {
+    type: "input",
+    message: "List any collaborators for this project.",
+    name: "credits",
+    validate: (gitInput) => {
+      if (gitInput) {
+        return true;
+      } else {
+        console.log("N/A");
+        return false;
+      }
+    },
+  },
+  {
+    type: "input",
+    message: "What is your email address? (Required)",
+    name: "email",
+    validate: (gitInput) => {
+      if (gitInput) {
+        return true;
+      } else {
+        console.log("Please provide contact info for user related questions.");
+        return false;
+      }
+    },
+  },
 ];
 
 // Function to write README file

@@ -1,26 +1,56 @@
+# Run Buddy
 
+https://github.com/sterlingpeck/Run Buddy
 
-# undefined
-https://github.com/sterlingpeck/poop
 # Description
-undefined
-# Table of Contents 
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+
+website for stuff
+
+# Table of Contents
+
+- [Installation](#installation)
+  N/A
+- [Usage](#usage)
+  N/A
+- [License](#license)
+  ISC
+- [Credits](#credits)
+  None
+- [Questions](#questions)
+  peck.sterling@gmail.com
+
 # Installation
-The following necessary dependencies must be installed to run the application properly: undefined
+
+These dependencies need to be installed to run this application: N/A
+
 # Usage
-In order to use this app, undefined
+
+In order to use this app, N/A
+
 # License
-This project is licensed under the undefined license. 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-# Contributing
-Contributors: undefined
-# Tests
-The following is needed to run the test: undefined
+
+This project is licensed under ISC.
+
+ISC License
+
+Copyright (c) [2022] [sterlingpeck]
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+# Credits
+
+Credits: None
+
 # Questions
-If you have any questions about the repo, open an issue or contact undefined directly at : undefined.
+
+If you have any questions please feel free to contact peck.sterling@gmail.com.
