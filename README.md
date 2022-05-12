@@ -1,28 +1,35 @@
+# README_Generator
 
+https://github.com/sterlingpeck/README_Generator
 
-# Weather Dashboard
-https://github.com/sterlingpeck/Weather Dashboard
 # Description
-Tells the weather
 
-# Table of Contents 
-* [Installation](#installation)
-None
-* [Usage](#usage)
-Run in browser
-* [License](#license)
-ISC
-* [Credits](#credits)
-None
-* [Questions](#questions)
-peck.sterling@gmail.com
+Generates a README.md for your github projects based on user input.
+
+# Table of Contents
+
+- [Installation](#installation)
+  Inquirer, node.js
+- [Usage](#usage)
+  Run node index.js in your Terminal and the program will initialize.
+- [License](#license)
+  ISC
+- [Credits](#credits)
+  N/A
+- [Questions](#questions)
+  peck.sterling@gmail.com
 
 # Installation
-These dependencies need to be installed to run this application: None
+
+These dependencies need to be installed to run this application: Inquirer, node.js
+
 # Usage
-In order to use this app, Run in browser
+
+In order to use this app, Run node index.js in your Terminal and the program will initialize.
+
 # License
-This project is licensed under ISC. 
+
+This project is licensed under ISC.
 
 ISC License
 
@@ -41,6 +48,9 @@ OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 
 # Credits
-Credits: None
+
+Credits: N/A
+
 # Questions
+
 If you have any questions please feel free to contact peck.sterling@gmail.com.
